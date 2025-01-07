@@ -1,0 +1,20 @@
+{
+    "eventos": [
+        {
+            "nome": "teste",
+            "descricao": "teste",
+            "data_hora_inicio": "28/08/2025 08:00",
+            "data_hora_fim": "28/08/2025 10:00",
+            "participantes": [
+                "teste@teste.com"
+            ]
+        }
+    ],
+    "usuarios": [
+        {
+            "nome": "Teste",
+            "email": "teste@teste.com",
+            "senha": "$2b$12$lFZ7Bo/LV0UtJIeV3bbr7e7XRhuutMg4uCZnlidBnuLi8q4CFnBni"
+        }
+    ]
+}
