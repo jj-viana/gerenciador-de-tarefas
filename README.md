@@ -127,7 +127,7 @@ Este projeto consiste em um sistema de gerenciamento de tarefas orientado a obje
 6. **Gerenciamento de Eventos**
 
    - **Adicionar Evento**:
-     - Insira os detalhes do evento (nome, descrição, horários e e-mails dos participantes).
+     - Insira os detalhes do evento (nome, descrição, horários e e-mails dos participantes(inclusive o próprio)).
      - Clique em "Adicionar" para salvar o evento.
    - **Remover Evento**:
      - Selecione o evento na lista e clique em "Remover Evento".
